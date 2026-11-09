@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tactrix OpenPort 2.0 J2534 Vehicle Interface (VID: 0x0403, PID: 0xCC4C) -->
+    <usb-device vendor-id="1027" product-id="52300" />
+    <!-- Tactrix OpenPort 2.0 Bootloader Mode (VID: 0x0403, PID: 0xCC4B) -->
+    <usb-device vendor-id="1027" product-id="52299" />
+</resources>
